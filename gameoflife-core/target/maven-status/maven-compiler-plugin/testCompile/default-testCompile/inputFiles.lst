@@ -1,0 +1,10 @@
+/Users/kubusb/Gdrive/Prywatne/Programowanie/szkolenia/jenkins-superbasic/francuz/game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouPlayTheGameOfLife.java
+/Users/kubusb/Gdrive/Prywatne/Programowanie/szkolenia/jenkins-superbasic/francuz/game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouPrintAGrid.java
+/Users/kubusb/Gdrive/Prywatne/Programowanie/szkolenia/jenkins-superbasic/francuz/game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouCreateANewUniverse.java
+/Users/kubusb/Gdrive/Prywatne/Programowanie/szkolenia/jenkins-superbasic/francuz/game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/test/categories/RegressionTests.java
+/Users/kubusb/Gdrive/Prywatne/Programowanie/szkolenia/jenkins-superbasic/francuz/game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/test/categories/IntegrationTests.java
+/Users/kubusb/Gdrive/Prywatne/Programowanie/szkolenia/jenkins-superbasic/francuz/game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouReadAGridFromAString.java
+/Users/kubusb/Gdrive/Prywatne/Programowanie/szkolenia/jenkins-superbasic/francuz/game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouCreateAGrid.java
+/Users/kubusb/Gdrive/Prywatne/Programowanie/szkolenia/jenkins-superbasic/francuz/game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/test/categories/SlowTests.java
+/Users/kubusb/Gdrive/Prywatne/Programowanie/szkolenia/jenkins-superbasic/francuz/game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/integration/WhenYouStoreGamesInADatabase.java
+/Users/kubusb/Gdrive/Prywatne/Programowanie/szkolenia/jenkins-superbasic/francuz/game-of-life/gameoflife-core/src/test/java/com/wakaleo/gameoflife/domain/WhenYouCreateACell.java
